@@ -1,0 +1,17 @@
+*{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+h1{
+    padding: 50px
+}
+
+img{
+    max-width: 200px;
+    max-height: 150px;
+}
+.reload{
+    margin-top: 20px;
+    height: 30px;
+}
